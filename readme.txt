@@ -1,0 +1,1 @@
+This code pulls the daily global data on COVID-19 cases from the ECDC website and visualizes it in a simple dashboard. Data source: https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide
